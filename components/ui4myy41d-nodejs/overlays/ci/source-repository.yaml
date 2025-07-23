@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ui4myy41d-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ui4myy41d-nodejs
